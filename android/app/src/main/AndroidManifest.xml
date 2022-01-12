@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.alrey.gjol_aide">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="古网WIKI助手"
         android:icon="@mipmap/ic_launcher">

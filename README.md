@@ -1,16 +1,8 @@
-# gjol_aide
+# 古剑奇谭网络版WIKI助手
 
-A new Flutter project.
+[古剑奇谭网络版WIKI](https://www.notion.so/Wiki-7c5513c94410405baba24445cb09e131)
 
-## Getting Started
+为方便本团团员与萌新的使用与查询，特做此app；
+app中的所有资料均通过网页的方式直接引用
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+欢迎提交pr和issues
